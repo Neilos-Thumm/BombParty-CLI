@@ -46,6 +46,6 @@ If your Python install hits an SSL certificate error on first download (common o
 <img src="imgs/Preview_2.png">
 <img src="imgs/Preview_3.png">
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
